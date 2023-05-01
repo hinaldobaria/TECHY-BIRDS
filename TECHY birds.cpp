@@ -7,6 +7,7 @@ class Shape{
 		void get_data();//input data
 		void display();//for area and perimeter
 };
+
 class Circle : public Shape
 {
 	public:
