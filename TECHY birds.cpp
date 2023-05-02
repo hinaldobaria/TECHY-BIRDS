@@ -24,6 +24,7 @@ class Circle : public Shape
 			cout<<"Perimeter of circle is :"<<pc<<endl;
 		}
 };
+// Class Shape
 class Rectangle : public Shape
 {
 	public:
