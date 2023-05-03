@@ -15,6 +15,8 @@ EXAMPLE
 Here are some examples of how you might use this calculator:
 
 To calculate the area and perimeter of a rectangular room, enter the length and width of the room into the calculator.
+
 To calculate the area and circumference of a circular table, enter the radius of the table into the calculator.
+
 To calculate the area and perimeter of a triangular garden bed, enter the length of each side of the triangle into the calculator.
 
