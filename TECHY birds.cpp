@@ -8,6 +8,7 @@ class Shape{
 		void display();//for area and perimeter
 };
 //class for circle
+
 class Circle : public Shape
 {
 	public:
