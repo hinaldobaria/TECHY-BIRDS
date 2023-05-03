@@ -7,28 +7,29 @@ class Shape{
 		void get_data();//input data
 		void display();//for area and perimeter
 };
-
+//class for circle
 class Circle : public Shape
 {
 	public:
-		void get_data()
+		void get_data()//to input data
 		{
 			cout<<"Enter Radius of Circle :";
 			cin>>x;
 		}
-		void display()
+		void display()//to display data
 		{
-			double ac,pc;
+			double ac,pc;//for area and perimeter of circle
 			ac = 3.14*x*x;
 			pc=2*3.14*x;
 			cout<<"Area of Circle is :"<<ac<<endl;
 			cout<<"Perimeter of circle is :"<<pc<<endl;
 		}
 };
+// Class for rectangle
 class Rectangle : public Shape
 {
 	public:
-		void get_data()
+		void get_data()//for inputing data
 		{
 			cout<<"Enter Width and Length of Rectangle :";
 			cin>>x>>y;
