@@ -20,3 +20,7 @@ To calculate the area and circumference of a circular table, enter the radius of
 
 To calculate the area and perimeter of a triangular garden bed, enter the length of each side of the triangle into the calculator.
 
+CONTRIBUTIONS
+
+This project is prepared by Priyansi Borda , Hinal Dobaria And Juli Gopani.
+
