@@ -1,2 +1,2 @@
 AREA AND PERIMETER CALCULATOR
-CAL
+This is a simple calculator that can calculate the area and perimeter of various shapes, including rectangles, circles, and triangles.
