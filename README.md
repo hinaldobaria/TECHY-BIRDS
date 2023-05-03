@@ -1,2 +1,2 @@
 # TECHY-BIRDS
-s
+r
